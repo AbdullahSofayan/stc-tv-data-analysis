@@ -7,11 +7,9 @@ During this experience, participants work with real datasets and learn how to an
 ### Learning Outcomes
 After completing this virtual experience, participants are able to:
 
-- Identify and use appropriate **statistical analysis tools**
-- Build **prediction models** to forecast user behavior
-- Develop **machine learning algorithms** for recommendation systems
-- Apply **data storytelling** techniques to communicate insights effectively
-- Create **professional presentations** based on data analysis results
+- Identify and use appropriate **statistical analysis tools** (Task 1)
+- Build **prediction models** to forecast user behavior (Task 2)
+- Develop **machine learning algorithms** for recommendation systems (Task 3)
 
 ### Skills Gained
 The following skills are developed during this program:
